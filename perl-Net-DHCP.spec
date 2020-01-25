@@ -4,7 +4,6 @@
 #
 %define		pdir	Net
 %define		pnam	DHCP
-%include	/usr/lib/rpm/macros.perl
 Summary:	Net::DHCP - Perl extension for handling DHCP packets
 Summary(pl.UTF-8):	Net::DHCP - rozszerzenie Perla do obsługi pakietów DHCP
 Name:		perl-%{pdir}-%{pnam}
